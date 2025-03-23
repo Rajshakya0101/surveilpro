@@ -3,8 +3,8 @@ import ImageComparision from "./ImageComparision";
 import Loader from "./ui-component/Loader"; // Import your loader component
 
 // Default images (assuming they're in public/images/)
-const DEFAULT_BEFORE = "../public/assets/Noised-image.png";
-const DEFAULT_AFTER = "../public/assets/HD-image.jpg";
+const DEFAULT_BEFORE = "../assets/Noised-image.png";
+const DEFAULT_AFTER = "../assets/HD-image.jpg";
 
 const SuperResolution = () => {
   // Slider images (initially your example images)
