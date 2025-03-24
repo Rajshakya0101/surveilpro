@@ -113,7 +113,7 @@ const SuperResolution = () => {
     <div className="bg-gray-900 min-h-screen text-white p-6 flex flex-col items-center">
       {/* Header */}
       <h1 className="text-4xl font-bold mt-10">
-        Super Resolution : Unblur the Truth
+        Surveilpro : Unblur the Truth
       </h1>
       <p className="max-w-4xl text-center mt-4 text-gray-400 text-lg">
         Leveraging advanced machine learning techniques, our Super Resolution
