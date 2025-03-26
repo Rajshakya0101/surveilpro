@@ -232,7 +232,7 @@ const SuperResolution = () => {
 
       {/* Footer */}
       <div className="text-gray-500 text-sm mt-20">
-        <p>© 2025 Surveilpro made with ♥ by Guarav & Raj</p>
+        <p>© 2025 Surveilpro made with ♥ by Gaurav & Raj</p>
       </div>
     </div>
   );
